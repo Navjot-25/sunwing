@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90" started-at="2020-04-04T00:07:09Z" finished-at="2020-04-04T00:07:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90" started-at="2020-04-04T00:07:09Z" finished-at="2020-04-04T00:07:09Z">
+      <class name="sunwing.testcases.HomeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:sunwing.testcases.HomeTest@64ec96c6]" name="setup" is-config="true" duration-ms="4254" started-at="2020-04-04T00:07:04Z" finished-at="2020-04-04T00:07:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getTitle()[pri:0, instance:sunwing.testcases.HomeTest@64ec96c6]" name="getTitle" duration-ms="52" started-at="2020-04-04T00:07:09Z" finished-at="2020-04-04T00:07:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+      </class> <!-- sunwing.testcases.HomeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
